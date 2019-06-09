@@ -1,13 +1,16 @@
 h1  {
-  color: red;
+  color: black;
   font-family: monospace;
 }
 
 h6  {
-  color: white;
+  color: maroon;
   font-style: italic;
 }
 
 body  {
-  background-color: black;
+  background-color: turquoise;
+}
+.btn  {
+  display: block;
 }
