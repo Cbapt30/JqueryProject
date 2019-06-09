@@ -1,5 +1,5 @@
 # JqueryProject
-#### _{Determines the best type of home for the survey taker}, {6/8/19}_
+#### Determines the best type of home for the survey taker, 6/8/19
 
 #### By _**Celia Baptiste**_
 
