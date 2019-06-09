@@ -1,4 +1,4 @@
-# JqueryProject
+# Jquery Project
 #### Determines the best type of home for the survey taker, 6/8/19
 
 #### By _**Celia Baptiste**_
@@ -14,26 +14,21 @@ _The purpose of this site is to answer 5 questions to find out the recommended h
 * _Click submit_
 
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
-
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+The site is currently not producing the output it is supposed to produce.
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+Please contact Celia Baptiste at cfbaptiste@gmail.com for support.
 
 ## Technologies Used
 
-_Used HTML, Bootstrap, CSS, and Jquery_
+Used HTML, Bootstrap, CSS, and Jquery
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT Licensing*
 
-Copyright (c) 2015 **_Celia Baptiste_**
+Copyright (c) 2015 **Celia Baptiste**
 Licensing
-An open source license details how others can use your code. MIT and GPL are the most common licenses. An MIT license means your code is free to use by anyone and you are not liable (Rails and jQuery use an MIT license). GPL also indicates free usage of the code but when used, the resulting work MUST be open source (Linux, Git and Wordpress use GPL).
-
-For additional details on choosing a license for your code, visit GitHub's Choose a License site.
