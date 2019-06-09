@@ -1,17 +1,17 @@
 # Jquery Project
 #### Determines the best type of home for the survey taker, 6/8/19
 
-#### By _**Celia Baptiste**_
+#### By **Celia Baptiste**
 
 ## Description
 
-_The purpose of this site is to answer 5 questions to find out the recommended home for you. This survey takes your answers and offers the best home option for you based on your answers._
+The purpose of this site is to answer 5 questions to find out the recommended home for you. This survey takes your answers and offers the best home option for you based on your answers.
 
 ## Setup/Installation Requirements
 
-* _Click on the link_
-* _Answer questions_
-* _Click submit_
+* Click on the link
+* Answer questions
+* Click submit
 
 
 ## Known Bugs
@@ -28,7 +28,6 @@ Used HTML, Bootstrap, CSS, and Jquery
 
 ### License
 
-*MIT Licensing*
+MIT Licensing
 
 Copyright (c) 2015 **Celia Baptiste**
-Licensing
